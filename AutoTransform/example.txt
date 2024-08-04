@@ -1,0 +1,12 @@
+You are the leader of a group of experts, now you are facing a grade
+school math problem: <TASK_DESCRIPTION>
+You can recruit <CNT_CRITIC_AGENTS> experts in different fields.
+What experts will you recruit to better generate an accurate solution?
+Here are some suggestion: <ADVICE>
+Response Format Guidance
+You should respond with a list of expert description. For example:
+1. An electrical engineer specified in the filed of ...
+2. An economist who is good at ...
+...
+Only respond with the description of each role. Do not include your
+reason
