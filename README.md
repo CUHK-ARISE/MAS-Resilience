@@ -1,14 +1,14 @@
 # MAS-Resilience
 ## Install
 Clone the repository:
-```
+```bash
 $ git clone https://github.com/CUHK-ARISE/MAS-Resilience.git
 $ cd MAS-Resilience
 ```
 ## How to Use
 
 First, set the OpenAI apikey:
-```
+```bash
 $ $env:OPENAI_API_KEY="<your_api_key>"
 ```
 
@@ -16,7 +16,7 @@ $ $env:OPENAI_API_KEY="<your_api_key>"
 AutoTransform can turn any agent into a malicious agent, by tampering with their profile.
 
 To see an example, run:
-```
+```bash
 $ python AutoTransform.py
 enter the file name for the prompt:
 example.txt
