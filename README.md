@@ -67,11 +67,19 @@ myInspector=Inspector.inspector()
 
 ## 📊 Results
 <div align="center">
-<img src="Figures/result-1.png" width="750px">
+<img src="Figures/result-structure.png" width="750px">
 </div>
 
 <div align="center">
-<img src="Figures/result-2.png" width="750px">
+<img src="Figures/result-task.png" width="750px">
+</div>
+
+<div align="center">
+<img src="Figures/result-increase.png" width="750px">
+</div>
+
+<div align="center">
+<img src="Figures/result-defense.png" width="750px">
 </div>
 
 ## 👉 Paper and Citation
@@ -87,9 +95,9 @@ If you find our paper&tool interesting and useful, please feel free to give us a
                Zixi Chen and
                Wenxuan Wang and
                Youliang Yuan and
-               Maarten Sap and
-               Michael R. Lyu},
-  title     = {On the Resilience of Multi-Agent Systems with Malicious Agents},
+               Michael R. Lyu and
+               Maarten Sap},
+  title     = {On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents},
   journal   = {arXiv Preprint: 2408.00989},
   year      = {2024}
 }
